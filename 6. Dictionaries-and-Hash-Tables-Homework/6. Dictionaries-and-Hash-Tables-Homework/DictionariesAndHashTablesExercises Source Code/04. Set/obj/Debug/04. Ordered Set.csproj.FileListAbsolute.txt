@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\obj\Debug\04. Ordered Set.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\bin\Debug\_04.Set.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\bin\Debug\_04.Set.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\bin\Debug\_04.Set.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\obj\Debug\_04.Set.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\04. Set\obj\Debug\_04.Set.pdb

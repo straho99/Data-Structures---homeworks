@@ -1,0 +1,5 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\02. Calculate\bin\Debug\_02.Calculate.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\02. Calculate\bin\Debug\_02.Calculate.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\02. Calculate\bin\Debug\_02.Calculate.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\02. Calculate\obj\Debug\_02.Calculate.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\02. Calculate\obj\Debug\_02.Calculate.pdb

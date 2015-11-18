@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\bin\Debug\_09.Sequence.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\bin\Debug\_09.Sequence.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\bin\Debug\_09.Sequence.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\obj\Debug\09. Sequence N-M.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\obj\Debug\_09.Sequence.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\09. Sequence\obj\Debug\_09.Sequence.pdb

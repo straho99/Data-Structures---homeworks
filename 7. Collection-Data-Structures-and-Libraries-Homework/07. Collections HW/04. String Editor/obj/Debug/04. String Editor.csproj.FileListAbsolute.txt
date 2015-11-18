@@ -1,0 +1,8 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\bin\Debug\_04.String_Editor.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\bin\Debug\_04.String_Editor.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\bin\Debug\_04.String_Editor.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\bin\Debug\PowerCollections.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\bin\Debug\PowerCollections.xml
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\obj\Debug\04. String Editor.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\obj\Debug\_04.String_Editor.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\04. String Editor\obj\Debug\_04.String_Editor.pdb

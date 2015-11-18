@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\bin\Debug\_01.Play_with_trees.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\bin\Debug\_01.Play_with_trees.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\bin\Debug\_01.Play_with_trees.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\obj\Debug\01. Play with trees.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\obj\Debug\_01.Play_with_trees.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\01. Play with trees\obj\Debug\_01.Play_with_trees.pdb

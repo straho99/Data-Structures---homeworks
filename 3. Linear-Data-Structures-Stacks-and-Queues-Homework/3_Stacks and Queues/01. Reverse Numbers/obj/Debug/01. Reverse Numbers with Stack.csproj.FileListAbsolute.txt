@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\bin\Debug\_01.Reverse_Numbers.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\obj\Debug\01. Reverse Numbers with Stack.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\01. Reverse Numbers\obj\Debug\_01.Reverse_Numbers.pdb

@@ -1,0 +1,94 @@
+using System;
+
+public class StupidList<T>
+{
+    private T[] arr = new T[0];
+
+    // Problem 7. Length complexity
+    public int Length
+    {
+        get
+        {
+            return this.arr.Length;
+        }
+    }
+    //Complexity = O(1) (runs in constant time)
+    //Number of steps = 1
+
+    // Problem 8. This[index] Complexity
+    public T this[int index]
+    {
+        get
+        {
+            return this.arr[index];
+        }
+    }
+    //Complexity = O(1) (runs in constant time)
+    //Number of steps = 1
+
+    // Problem 9. First Complexity
+    public T First
+    {
+        get
+        {
+            return this.arr[0];
+        }
+    }
+    //Complexity = O(1) (runs in constant time)
+    //Number of steps = 1
+
+    // Problem 10. Last complexity
+    public T Last
+    {
+        get
+        {
+            return this.arr[this.arr.Length - 1];
+        }
+    }
+    // Complexity = O(1) (runs in constant time)
+    // Number of steps = 1
+
+    // Problem 1. Add(T) complexity
+    public void Add(T item)
+    {
+        var newArr = new T[this.arr.Length + 1]; //1 op(eration)
+        Array.Copy(this.arr, newArr, this.arr.Length); // n ops
+        newArr[newArr.Length - 1] = item; // 1op
+        this.arr = newArr; //1 op
+    }
+    // Complexity = O(n) (runs in linear time)
+    // Number of steps = 3 + n
+
+    // Problem 2. Remove(index) worst case | Problem 3. Remove(index) best case | Problem 4. Remove(index) average case
+    // Complexity is linear O(n) in all three cases because no matter the size of the array or the value of index,
+    // all n elements of the array are coppied to a new array (assuming Array.Copy performs one operation for one element)
+    public T Remove(int index)
+    {
+        T result = this.arr[index]; // 1 op
+        var newArr = new T[this.arr.Length - 1]; // 1 op
+        Array.Copy(this.arr, newArr, index); // index ops
+        Array.Copy(this.arr, index + 1, newArr, index, this.arr.Length - index - 1); // n - index ops
+        this.arr = newArr; // 1 op
+        return result;
+    }
+    // Complexity = O(n) (runs in linear time)
+    // Number of steps = 1 + 1 + index + (n - index) = 2 + n
+
+    // Problem 5. RemoveFirst(T) complexity
+    public T RemoveFirst()
+    {
+        return this.Remove(0);
+    }
+    // Complexity = O(n) (runs in linear time)
+    // Here, we have same complexity and number of steps as in the T Remove(int index) method
+    // because all this method does is to call it.
+
+    // Problem 6. RemoveLast(T) complexity
+    public T RemoveLast()
+    {
+        return this.Remove(this.Length - 1);
+    }
+    // Complexity = O(n) (runs in linear time)
+    // Here, we have same complexity and number of steps as in the T Remove(int index) method
+    // because all this method does is to call it.
+}

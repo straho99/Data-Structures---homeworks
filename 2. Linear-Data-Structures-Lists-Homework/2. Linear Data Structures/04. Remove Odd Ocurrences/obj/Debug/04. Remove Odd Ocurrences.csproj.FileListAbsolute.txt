@@ -1,0 +1,5 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\04. Remove Odd Ocurrences\bin\Debug\_04.Remove_Odd_Ocurrences.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\04. Remove Odd Ocurrences\bin\Debug\_04.Remove_Odd_Ocurrences.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\04. Remove Odd Ocurrences\bin\Debug\_04.Remove_Odd_Ocurrences.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\04. Remove Odd Ocurrences\obj\Debug\_04.Remove_Odd_Ocurrences.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\04. Remove Odd Ocurrences\obj\Debug\_04.Remove_Odd_Ocurrences.pdb

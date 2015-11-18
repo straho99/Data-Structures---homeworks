@@ -1,0 +1,7 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\bin\Debug\HashTable.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\bin\Debug\HashTable.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable.Tests\obj\Debug\HashTable.Tests.pdb

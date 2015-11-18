@@ -1,0 +1,7 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\bin\Debug\_06.LinkedStack_Tes.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\bin\Debug\_06.LinkedStack_Tes.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\bin\Debug\_05.Linked_Stack.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\bin\Debug\_05.Linked_Stack.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\obj\Debug\06. LinkedStack Tests.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\obj\Debug\_06.LinkedStack_Tes.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\3. Linear-Data-Structures-Stacks-and-Queues-Homework\3_Stacks and Queues\06. LinkedStack Tes\obj\Debug\_06.LinkedStack_Tes.pdb

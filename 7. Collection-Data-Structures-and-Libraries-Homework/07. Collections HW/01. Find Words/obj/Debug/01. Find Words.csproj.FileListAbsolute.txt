@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\bin\Debug\_01.Find_Words.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\bin\Debug\_01.Find_Words.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\bin\Debug\_01.Find_Words.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\obj\Debug\01. Find Words.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\obj\Debug\_01.Find_Words.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\01. Find Words\obj\Debug\_01.Find_Words.pdb

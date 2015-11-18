@@ -1,0 +1,5 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\02. Sort Words\bin\Debug\_02.Sort_Words.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\02. Sort Words\bin\Debug\_02.Sort_Words.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\02. Sort Words\bin\Debug\_02.Sort_Words.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\02. Sort Words\obj\Debug\_02.Sort_Words.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\02. Sort Words\obj\Debug\_02.Sort_Words.pdb

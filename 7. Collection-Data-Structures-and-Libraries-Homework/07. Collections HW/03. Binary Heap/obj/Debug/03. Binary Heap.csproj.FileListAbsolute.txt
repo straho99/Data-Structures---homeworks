@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\bin\Debug\_03.Binary_Heap.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\obj\Debug\03. Binary Heap.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\bin\Debug\_03.Binary_Heap.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\bin\Debug\_03.Binary_Heap.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\obj\Debug\_03.Binary_Heap.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\03. Binary Heap\obj\Debug\_03.Binary_Heap.pdb

@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\bin\Debug\_06.Reversed_List.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\bin\Debug\_06.Reversed_List.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\bin\Debug\_06.Reversed_List.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\obj\Debug\06. Reversed List.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\obj\Debug\_06.Reversed_List.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\06. Reversed List\obj\Debug\_06.Reversed_List.pdb

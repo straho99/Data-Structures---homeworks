@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\bin\Debug\_07.LinkedList.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\bin\Debug\_07.LinkedList.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\bin\Debug\_07.LinkedList.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\obj\Debug\07. LinkedList.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\obj\Debug\_07.LinkedList.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\07. LinkedList\obj\Debug\_07.LinkedList.pdb

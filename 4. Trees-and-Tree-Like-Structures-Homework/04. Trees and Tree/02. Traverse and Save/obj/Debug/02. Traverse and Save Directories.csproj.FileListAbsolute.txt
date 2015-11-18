@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\bin\Debug\_02.Traverse_and_Save.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\obj\Debug\02. Traverse and Save Directories.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\bin\Debug\_02.Traverse_and_Save.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\bin\Debug\_02.Traverse_and_Save.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\obj\Debug\_02.Traverse_and_Save.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\4. Trees-and-Tree-Like-Structures-Homework\04. Trees and Tree\02. Traverse and Save\obj\Debug\_02.Traverse_and_Save.pdb

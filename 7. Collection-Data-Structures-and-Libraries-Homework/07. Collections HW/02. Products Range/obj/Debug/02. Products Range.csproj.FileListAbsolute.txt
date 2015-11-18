@@ -1,0 +1,8 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\bin\Debug\_02.Products_Range.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\bin\Debug\_02.Products_Range.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\bin\Debug\_02.Products_Range.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\obj\Debug\02. Products Range.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\obj\Debug\_02.Products_Range.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\obj\Debug\_02.Products_Range.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\bin\Debug\PowerCollections.dll
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\homeworks\7. Collection-Data-Structures-and-Libraries-Homework\07. Collections HW\02. Products Range\bin\Debug\PowerCollections.xml

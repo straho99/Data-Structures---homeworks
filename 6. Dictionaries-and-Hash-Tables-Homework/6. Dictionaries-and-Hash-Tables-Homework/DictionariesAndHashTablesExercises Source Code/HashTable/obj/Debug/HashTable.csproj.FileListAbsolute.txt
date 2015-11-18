@@ -1,0 +1,5 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable\bin\Debug\HashTable.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable\bin\Debug\HashTable.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable\obj\Debug\HashTable.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\Data Structures\exercises\6. Dictionaries-and-Hash-Tables-Exercises\DictionariesAndHashTablesExercises Source Code\HashTable\obj\Debug\HashTable.pdb

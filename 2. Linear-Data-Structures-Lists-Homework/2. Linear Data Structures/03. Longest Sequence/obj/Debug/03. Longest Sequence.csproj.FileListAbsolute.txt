@@ -1,0 +1,6 @@
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\bin\Debug\_03.Longest_Sequence.exe.config
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\bin\Debug\_03.Longest_Sequence.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\bin\Debug\_03.Longest_Sequence.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\obj\Debug\_03.Longest_Sequence.exe
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\obj\Debug\_03.Longest_Sequence.pdb
+\\psf\Dropbox\Personal\SoftUni\Level 3\DB Apps\homework\1. Entity-Framework-Homework\2. Linear Data Structures\03. Longest Sequence\obj\Debug\03. Longest Sequence.csprojResolveAssemblyReference.cache
